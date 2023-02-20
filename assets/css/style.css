@@ -402,7 +402,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh; /* Change Height of Main Section to allow Text_Chnage be visible */
-  background: url("../img/couch_with_pink_fabric.jpg") center center;
+  background: url("../img/main_header1.jpg") center center;
   background-size: cover;
   position: relative;
 }
