@@ -402,7 +402,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh; /* Change Height of Main Section to allow Text_Chnage be visible */
-  background: url("../img/couch_with_rgb(101,197,43);_fabric.jpg") center center;
+  background: url("../img/couch_with_pink_fabric.jpg") center center;
   background-size: cover;
   position: relative;
 }
@@ -1656,13 +1656,13 @@ section {
 
 h1 span::before{
   content: '';
-  color: #e69494;
+  color: orangered;
   animation: profile 5s linear infinite;
 }
 @keyframes profile {
-  0% { content: 'Heal'}
-  50% { content: 'Grow'}
-  100% { content: 'Thrive'}
+  0% { content: 'Health'}
+  50% { content: 'Growth'}
+  100% { content: 'Nutrition'}
 }
 
 /* Padded Paragragh */
