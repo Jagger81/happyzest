@@ -75,11 +75,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .header-container {
-  background: #fff;
+  background: black;
 }
 
 #header.header-scrolled {
-  background: #fff;
+  background: black;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   top: 0;
 }
@@ -87,7 +87,7 @@ h1, h2, h3, h4, h5, h6 {
 #header .logo {
   overflow: hidden;
   padding: 16px 30px 12px 30px;
-  background: grey;
+  background: black;
 }
 
 #header .logo h2 {
@@ -113,10 +113,10 @@ h1, h2, h3, h4, h5, h6 {
   #header {
     box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
     top: 0;
-    background: grey;
+    background: black;
   }
   #header.header-scrolled, #header .header-container {
-    background: grey;
+    background: black;
   }
   #header .logo h1 {
     font-size: 24px;
@@ -168,7 +168,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a {
   display: block;
   position: relative;
-  color: #36343a;
+  color: whitesmoke;
   padding: 10px 15px;
   transition: 0.3s;
   font-size: 13px;
@@ -488,6 +488,10 @@ section {
 
 .section-bg {
   background-color: #f6f6f7;
+}
+
+.section-test-bg {
+  background-color: #e7e7e7;
 }
 
 .section-title {
@@ -1636,7 +1640,7 @@ section {
 .myaccordion .btn {
   width: 100%;
   font-weight: bold;
-  color: #009970;
+  color: rgb(101,197,43);
   padding: 0;
   text-align: left;
 }
