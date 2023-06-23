@@ -1132,6 +1132,7 @@ section {
   width: 100%;
   background: #fff;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  margin: 0px;
 }
 
 .contact .info i {
